@@ -10,7 +10,8 @@ If any of you want to publish a blog post in our github page, you just need to d
 
 * Create a public repo with the markdown of your post;
 * Create a new post file under our [github page repo](https://github.com/722-network/page)
-``` markdown
+```
+[//]: <> (file name format: YYYY-MM-DD-file-name.md)
 ---
 layout: remote_post
 title:  "First remote post"
@@ -22,8 +23,9 @@ repo_source: "https://github.com/arthurstomp/jekyll_remote_post"
 ---
 ```
 > If you still don't have access to this repo yet, feel free to bother [@arthurstomp](https://722-network.slack.com/team/UGSNLPZ88)
+
 *  Make a merge request. And :boom: the post sent for mutual approval!
 
-#SharingIsCaring
+\#SharingIsCaring
 
 Peace out!
